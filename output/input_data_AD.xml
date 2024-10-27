@@ -1,0 +1,877 @@
+<?xml version="1.0" ?>
+<NMEXML EximID="13" BranchCode="2040822216" ACCOUNTANTCOPYID="">
+    <TRANSACTIONS OnError="CONTINUE">
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436444.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAGNATEC 10W-40 SP/CF 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>89900.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436445.0</ITEMNO>
+                <QUANTITY>6.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAGNATEC 10W-40 SP/CF 6X4L ID</ITEMOVDESC>
+                <UNITPRICE>355000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>2807AB33D7BC0769FC94</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>C0290</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436435.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX 5W-30 SP/CF GF6 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>1015200.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436436.0</ITEMNO>
+                <QUANTITY>18.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX 5W-30 SP/CF GF6 6X3.5L ID</ITEMOVDESC>
+                <UNITPRICE>1659000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>2</KeyID>
+                <ITEMNO>3436444.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAGNATEC 10W-40 SP/CF 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>1078800.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>3</KeyID>
+                <ITEMNO>3436445.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAGNATEC 10W-40 SP/CF 6X4L ID</ITEMOVDESC>
+                <UNITPRICE>2130000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000106</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP0704</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436741.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>TRANSMAX AXLE 85W-140 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>770400.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436745.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>TRANSMAX MANUAL 80W90 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>690000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000105</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP0706</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3429540.0</ITEMNO>
+                <QUANTITY>6.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX DSL 15W-40 CI4 6X4L ID</ITEMOVDESC>
+                <UNITPRICE>1599000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436730.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX DSL 15W-40 CI4 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>822000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000107</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP0839</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3428221.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>TRANSMAX ATFDEX/MERCMV 6X1L ID</ITEMOVDESC>
+                <UNITPRICE>72500.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>5D34915D06C9627A3A4D</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP0862</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436743.0</ITEMNO>
+                <QUANTITY>48.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 MTC 10W-40 MB 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>764400.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3439244.0</ITEMNO>
+                <QUANTITY>168.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>510000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>2</KeyID>
+                <ITEMNO>3439309.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 4T 10W-40  12X1L IN</ITEMOVDESC>
+                <UNITPRICE>732000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000110</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1204</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3439244.0</ITEMNO>
+                <QUANTITY>240.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>510000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000103</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1218</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436743.0</ITEMNO>
+                <QUANTITY>72.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 MTC 10W-40 MB 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>728400.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3439244.0</ITEMNO>
+                <QUANTITY>312.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>474000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000108</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1256</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3411865.0</ITEMNO>
+                <QUANTITY>600.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>SCTR GEAR OIL 80W90 12X0.12L</ITEMOVDESC>
+                <UNITPRICE>157200.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3439244.0</ITEMNO>
+                <QUANTITY>600.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>474000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000114</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1271</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436309.0</ITEMNO>
+                <QUANTITY>6.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>TRANSMAX CVT 6X1L ID</ITEMOVDESC>
+                <UNITPRICE>591000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436739.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX 15W-40 SP/CF 12X1L HL ID</ITEMOVDESC>
+                <UNITPRICE>819600.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000109</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1283</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3439298.0</ITEMNO>
+                <QUANTITY>36.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>582000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000104</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1315</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436448.0</ITEMNO>
+                <QUANTITY>60.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>438000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3439244.0</ITEMNO>
+                <QUANTITY>60.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>510000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000101</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1329</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436447.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>528000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436448.0</ITEMNO>
+                <QUANTITY>60.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>438000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>2</KeyID>
+                <ITEMNO>3439244.0</ITEMNO>
+                <QUANTITY>60.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>510000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000100</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1353</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436739.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX 15W-40 SP/CF 12X1L HL ID</ITEMOVDESC>
+                <UNITPRICE>819600.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000111</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1369</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3429540.0</ITEMNO>
+                <QUANTITY>6.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX DSL 15W-40 CI4 6X4L ID</ITEMOVDESC>
+                <UNITPRICE>1599000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000112</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1369</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436447.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>528000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436448.0</ITEMNO>
+                <QUANTITY>36.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>438000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>2</KeyID>
+                <ITEMNO>3439244.0</ITEMNO>
+                <QUANTITY>180.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>510000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000102</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP1396</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436444.0</ITEMNO>
+                <QUANTITY>120.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAGNATEC 10W-40 SP/CF 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>1.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000099</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP2224</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436731.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV 2T FC 12X0.7L ID</ITEMOVDESC>
+                <UNITPRICE>40100.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436734.0</ITEMNO>
+                <QUANTITY>36.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 4T 10W-40 MA2 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>61000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>B5671E93C709B0923084</SONO>
+            <SODATE>2024-10-21 00:00:00</SODATE>
+            <CUSTOMERID>MAP2242</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436432.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAG 5W-40 SUVSP A3/B4 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>1152000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436433.0</ITEMNO>
+                <QUANTITY>6.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAG 5W-40 SUV SP A3/B4 6X4L ID</ITEMOVDESC>
+                <UNITPRICE>2235000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>2</KeyID>
+                <ITEMNO>3436444.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAGNATEC 10W-40 SP/CF 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>1078800.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>3</KeyID>
+                <ITEMNO>3436445.0</ITEMNO>
+                <QUANTITY>6.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAGNATEC 10W-40 SP/CF 6X4L ID</ITEMOVDESC>
+                <UNITPRICE>2130000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000119</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>C0140</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3439244.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>510000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3439304.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 ULTIMT4T10W-40 12X1L IN</ITEMOVDESC>
+                <UNITPRICE>866400.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000122</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP0034</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436448.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>438000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000124</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP0203</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436742.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>VECTON 15W-40 CI4/E7 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>679200.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000121</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP0377</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436743.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 MTC 10W-40 MB 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>764400.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000115</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP0857</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436436.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX 5W-30 SP/CF GF6 6X3.5L ID</ITEMOVDESC>
+                <UNITPRICE>276500.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>46487F06DEBF5E3E5A31</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP0858</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436330.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>TRANSMAX ATFDEX/MERCMV 6X1L ID</ITEMOVDESC>
+                <UNITPRICE>435000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000116</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP0862</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436447.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>528000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000120</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP0888</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3431976.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W30 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>42500.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436448.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>36500.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>14A68EB26B533472E9D9</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP1141</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436448.0</ITEMNO>
+                <QUANTITY>120.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>438000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000125</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP1163</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3411865.0</ITEMNO>
+                <QUANTITY>48.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>SCTR GEAR OIL 80W90 12X0.12L</ITEMOVDESC>
+                <UNITPRICE>13100.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>A7EB7BCFA2377B7451B5</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP1175</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436734.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 4T 10W-40 MA2 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>732000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436743.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 MTC 10W-40 MB 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>764400.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>2</KeyID>
+                <ITEMNO>3439244.0</ITEMNO>
+                <QUANTITY>48.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W-30  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>510000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>3</KeyID>
+                <ITEMNO>3439304.0</ITEMNO>
+                <QUANTITY>48.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 ULTIMT4T10W-40 12X1L IN</ITEMOVDESC>
+                <UNITPRICE>866400.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>4</KeyID>
+                <ITEMNO>3439310.0</ITEMNO>
+                <QUANTITY>36.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 4T 10W-40  12X.8L IN</ITEMOVDESC>
+                <UNITPRICE>609600.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>5</KeyID>
+                <ITEMNO>3439318.0</ITEMNO>
+                <QUANTITY>48.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1ULTMAT 10W30 12X.8L N IN</ITEMOVDESC>
+                <UNITPRICE>720000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000126</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP1383</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3439309.0</ITEMNO>
+                <QUANTITY>36.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 4T 10W-40  12X1L IN</ITEMOVDESC>
+                <UNITPRICE>732000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000117</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP2242</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436444.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAGNATEC 10W-40 SP/CF 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>89900.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436445.0</ITEMNO>
+                <QUANTITY>6.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAGNATEC 10W-40 SP/CF 6X4L ID</ITEMOVDESC>
+                <UNITPRICE>355000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>2</KeyID>
+                <ITEMNO>3436466.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAG 5W-30 SP/CF GF6 12X1L ID</ITEMOVDESC>
+                <UNITPRICE>136000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>3</KeyID>
+                <ITEMNO>3436467.0</ITEMNO>
+                <QUANTITY>6.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>MAG 5W-30 SP/CF GF6 6X4L ID</ITEMOVDESC>
+                <UNITPRICE>537000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>F7ABE62EADF8E30F4F5B</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP2300</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3432642.0</ITEMNO>
+                <QUANTITY>48.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 20W-40 12X.8L ID</ITEMOVDESC>
+                <UNITPRICE>561000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000118</SONO>
+            <SODATE>2024-10-22 00:00:00</SODATE>
+            <CUSTOMERID>MAP2437</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3429540.0</ITEMNO>
+                <QUANTITY>30.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX DSL 15W-40 CI4 6X4L ID</ITEMOVDESC>
+                <UNITPRICE>1599000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000129</SONO>
+            <SODATE>2024-10-23 00:00:00</SODATE>
+            <CUSTOMERID>C0300</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436401.0</ITEMNO>
+                <QUANTITY>6.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX 15W-40 SP/CF 6X4L HL ID</ITEMOVDESC>
+                <UNITPRICE>1563000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000131</SONO>
+            <SODATE>2024-10-23 00:00:00</SODATE>
+            <CUSTOMERID>MAP0975</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436448.0</ITEMNO>
+                <QUANTITY>36.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>438000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000128</SONO>
+            <SODATE>2024-10-23 00:00:00</SODATE>
+            <CUSTOMERID>MAP1082</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3439318.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1ULTMAT 10W30 12X.8L N IN</ITEMOVDESC>
+                <UNITPRICE>720000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000130</SONO>
+            <SODATE>2024-10-23 00:00:00</SODATE>
+            <CUSTOMERID>MAP1201</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3436309.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>TRANSMAX CVT 6X1L ID</ITEMOVDESC>
+                <UNITPRICE>591000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3436330.0</ITEMNO>
+                <QUANTITY>12.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>TRANSMAX ATFDEX/MERCMV 6X1L ID</ITEMOVDESC>
+                <UNITPRICE>435000.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>2</KeyID>
+                <ITEMNO>3436401.0</ITEMNO>
+                <QUANTITY>36.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>GTX 15W-40 SP/CF 6X4L HL ID</ITEMOVDESC>
+                <UNITPRICE>1563000.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>SO201213450000127</SONO>
+            <SODATE>2024-10-23 00:00:00</SODATE>
+            <CUSTOMERID>MAP2224</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <ITEMLINE operation="Add">
+                <KeyID>0</KeyID>
+                <ITEMNO>3411865.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>SCTR GEAR OIL 80W90 12X0.12L</ITEMOVDESC>
+                <UNITPRICE>13100.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>1</KeyID>
+                <ITEMNO>3429601.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>POWER1 MATIC 10W-30 12X0.8L HL</ITEMOVDESC>
+                <UNITPRICE>48500.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>2</KeyID>
+                <ITEMNO>3431976.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV MATIC 10W30 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>42500.0</UNITPRICE>
+            </ITEMLINE>
+            <ITEMLINE operation="Add">
+                <KeyID>3</KeyID>
+                <ITEMNO>3436448.0</ITEMNO>
+                <QUANTITY>24.0</QUANTITY>
+                <ITEMUNIT>BT</ITEMUNIT>
+                <ITEMOVDESC>ACTIV ESS 4T 20W-40 12X0.8L ID</ITEMOVDESC>
+                <UNITPRICE>36500.0</UNITPRICE>
+            </ITEMLINE>
+            <SONO>1A291491BBBA0EAA25E3</SONO>
+            <SODATE>2024-10-23 00:00:00</SODATE>
+            <CUSTOMERID>MAP2252</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+        <SALESORDER operation="Add" REQUESTID="1">
+            <TRANSACTIONID/>
+            <SONO/>
+            <SODATE>2024-10-23 00:00:00</SODATE>
+            <CUSTOMERID>MAP2252</CUSTOMERID>
+            <CURRENCYNAME>IDR</CURRENCYNAME>
+        </SALESORDER>
+    </TRANSACTIONS>
+</NMEXML>

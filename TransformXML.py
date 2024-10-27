@@ -4,7 +4,6 @@ from xml.dom import minidom
 
 excel_file = 'input_data.xlsx'
 df = pd.read_excel(excel_file, skiprows=5)
-
 df.columns = [col.strip() for col in df.columns]
 
 def safe_str(value):
@@ -21,10 +20,13 @@ def create_sales_order_xml(df):
         ET.SubElement(sales_order, "TRANSACTIONID")
         
         order_df = df[df['Order No'] == order_no]
-        
+        key_id = 0  
+
         for _, row in order_df.iterrows():
             item_line = ET.SubElement(sales_order, "ITEMLINE", operation="Add")
-            ET.SubElement(item_line, "KeyID")
+            ET.SubElement(item_line, "KeyID").text = str(key_id)  
+            key_id += 1  
+
             ET.SubElement(item_line, "ITEMNO").text = safe_str(row['Item Code'])
             ET.SubElement(item_line, "QUANTITY").text = safe_str(row['Quantity'])
             ET.SubElement(item_line, "ITEMUNIT").text = safe_str(row['UOM'])
