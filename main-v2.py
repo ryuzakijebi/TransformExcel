@@ -73,6 +73,8 @@ def create_sales_order_xml(input_file_path, output_file_path):
     def safe_str(value):
         return '' if pd.isna(value) else str(value)
 
+    df = df.dropna(subset=['Order No'])
+
     root = ET.Element("NMEXML", EximID="13", BranchCode="2040822216", ACCOUNTANTCOPYID="")
     transactions = ET.SubElement(root, "TRANSACTIONS", OnError="CONTINUE")
     unique_orders = df['Order No'].unique()
@@ -130,8 +132,8 @@ def create_sales_order_xml(input_file_path, output_file_path):
         ET.SubElement(sales_order, "FOB").text = ""
         ET.SubElement(sales_order, "ESTSHIPDATE").text = ""
         ET.SubElement(sales_order, "DESCRIPTION").text = ""
-        ET.SubElement(sales_order, "SHIPTO1").text = ""
-        ET.SubElement(sales_order, "SHIPTO2").text = ""
+        ET.SubElement(sales_order, "SHIPTO1").text = safe_str(order_df['Address'].iloc[0] if not order_df.empty else "")
+        ET.SubElement(sales_order, "SHIPTO2").text = safe_str(order_df['District'].iloc[0] if not order_df.empty else "")
         ET.SubElement(sales_order, "SHIPTO3").text = ""
         ET.SubElement(sales_order, "SHIPTO4").text = ""
         ET.SubElement(sales_order, "SHIPTO5").text = ""
@@ -141,11 +143,10 @@ def create_sales_order_xml(input_file_path, output_file_path):
         ET.SubElement(sales_order, "CUSTOMERID").text = safe_str(order_df['Customer Code'].iloc[0] if not order_df.empty else "")
         ET.SubElement(sales_order, "PONO").text = ""
         ET.SubElement(sales_order, "CURRENCYNAME").text = "IDR"
-
+        
     xml_str = minidom.parseString(ET.tostring(root)).toprettyxml(indent="    ")
     with open(output_file_path, "w", encoding="utf-8") as f:
         f.write(xml_str)
-
 
 # UI functions for file selection and processing
 def select_files(file_type):
